@@ -1,0 +1,64 @@
+.cars__item {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  background-color: #e0e0e0;
+  flex: 0 calc(50% - 30px);
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 10px;
+
+  & > * {
+    margin: 5px 0;
+  }
+  &:hover {
+    box-shadow: none;
+  }
+}
+
+.cars__item-img {
+  width: 100%;
+  height: 300px;
+  border-radius: 15px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.cars__item-description > * {
+  margin: 3px 0;
+}
+
+.cars__item-make {
+}
+
+.cars__item-model {
+}
+
+.cars__item-year {
+}
+
+.description-details {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.cars__item-btn {
+  font-size: 20px;
+  background: #201e1b;
+  color: #e6ebf7;
+  display: inline-block;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+
+  &:hover {
+    box-shadow: none;
+    background-color: #fff;
+    color: #201e1b;
+    border: 1px solid #201e1b;
+  }
+}

@@ -1,0 +1,16 @@
+.cars {
+  margin-top: 100px;
+}
+
+.cars__title {
+  text-align: center;
+  font-size: 30px;
+}
+
+.cars__items {
+  display: flex;
+  flex-wrap: wrap;
+
+  row-gap: 20px;
+  justify-content: space-between;
+}
