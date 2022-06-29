@@ -10,7 +10,7 @@
 .cars__items {
   display: flex;
   flex-wrap: wrap;
-
+  align-items: flex-start;
   row-gap: 20px;
   justify-content: space-between;
 }

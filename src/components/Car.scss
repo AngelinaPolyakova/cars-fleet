@@ -39,6 +39,9 @@
 
 .description-details {
   display: block;
+  & > * {
+    margin: 5px 0;
+  }
 }
 
 .hide {
