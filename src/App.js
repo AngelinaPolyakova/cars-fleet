@@ -35,7 +35,7 @@ function App() {
         color: "white",
         engine: "2.8",
         transmission: "MT",
-        img: "http://img.qdb.ru/carimages/car_1494252254_2120_big.jpg",
+        img: "https://specteh-omsk.speczakaz.info/uploads/ob/300509/imag1.jpg",
         own: true,
       },
       {
@@ -79,7 +79,7 @@ function App() {
         color: "silver",
         engine: "2.4",
         transmission: "AT",
-        img: "http://images.gtcarlot.com/pictures/73723255.jpg",
+        img: "http://images.gtcarlot.com/pictures/81262324.jpg",
         own: false,
       },
       {
