@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cars-fleet/static/css/main.023de71b.css",
+    "main.js": "/cars-fleet/static/js/main.bd33a2e0.js",
+    "static/js/787.443cef33.chunk.js": "/cars-fleet/static/js/787.443cef33.chunk.js",
+    "index.html": "/cars-fleet/index.html",
+    "main.023de71b.css.map": "/cars-fleet/static/css/main.023de71b.css.map",
+    "main.bd33a2e0.js.map": "/cars-fleet/static/js/main.bd33a2e0.js.map",
+    "787.443cef33.chunk.js.map": "/cars-fleet/static/js/787.443cef33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023de71b.css",
+    "static/js/main.bd33a2e0.js"
+  ]
+}
